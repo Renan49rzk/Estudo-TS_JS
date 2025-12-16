@@ -1,0 +1,21 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cliente (https://cliente.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler":"^1.12.5",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+  
+}
